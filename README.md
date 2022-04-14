@@ -1,5 +1,4 @@
 # primepalindrome
-My First Python script!!!
 
 A  simple function that, given an input n, returns the nth prime palindrome
 
